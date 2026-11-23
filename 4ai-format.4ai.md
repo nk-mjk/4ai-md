@@ -5,7 +5,7 @@
 원본판: FORMAT.md 초안 v0.9 (2026-11-23)
 다룸: .4ai.md 가 무엇인지 · 받았을 때 쓰는 법 · 만드는 법(형식 문서 1부) · 문서 생김새(형식 문서 2부) · 형식 원칙 · 지금 상태 · 쓰는 조건
 다루지 않음: 형식 문서 2부 틀 전문 · 개념 카드(cards/) · 셀프 테스트용 AI 도구 다루는 법 · llms.txt · AGENTS.md 자세한 내용 · v0.9 이전 판 (볼 곳은 4절)
-원본: [원1] FORMAT.md — 형식 문서 · 원본 본체 · 저장소 https://github.com/nk-mjk/4ai-md 안 · 환경에 따라 · [원2] README.md — 저장소 소개 글 · 같은 저장소 · 환경에 따라
+원본: 원1 FORMAT.md — 형식 문서 · 원본 본체 · 저장소 https://github.com/nk-mjk/4ai-md 안 · 환경에 따라 · 원2 README.md — 저장소 소개 글 · 같은 저장소 · 환경에 따라
 최신 문서: https://github.com/nk-mjk/4ai-md/blob/main/4ai-format.4ai.md
 만든 사람: 조남경
 문의: https://github.com/nk-mjk/4ai-md/issues
